@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h5 {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .bg-light {
+    background-color: #f9f9f3 !important;
+  }
+  
+  .text-success {
+    color: #4caf50 !important;
+  }
+  
+  .btn-success {
+    background-color: #4caf50;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #43a047;
+  }
+  
